@@ -1,0 +1,11 @@
+{
+  "version": "1.2.0",
+  "force": true,
+  "notes": "・新增自動更新功能\n・介面調整",
+  "download": "https://github.com/IceCream0724/fleeting-city-launcher/releases/latest/download/FleetingCity-Launcher.exe",
+  "discordUrl": "https://discord.gg/RQQQjnJTUj",
+  "announcements": [
+    { "tag": "公告", "text": "歡迎來到浮生若夢，請先加入 Discord 閱讀伺服器規則。" },
+    { "tag": "提示", "text": "若進城卡住或材質異常，可使用「清除快取」後再試一次。" }
+  ]
+}
