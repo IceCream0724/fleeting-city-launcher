@@ -1,11 +1,18 @@
 {
-  "version": "1.2.1",
+  "version": "1.3.0",
   "force": true,
-  "notes": "・新增自動更新功能\n・介面調整",
+  "notes": "・新增背景音樂播放器，可自由選歌\n・可調整音量、靜音與播放模式",
   "download": "https://github.com/IceCream0724/fleeting-city-launcher/releases/latest/download/FleetingCity-Launcher.exe",
   "discordUrl": "https://discord.gg/RQQQjnJTUj",
   "announcements": [
-    { "tag": "公告", "text": "歡迎來到浮生若夢，請先加入 Discord 閱讀伺服器的規則。" },
+    { "tag": "公告", "text": "歡迎來到浮生若夢，請先加入 Discord 閱讀伺服器規則。" },
     { "tag": "提示", "text": "若進城卡住或材質異常，可使用「清除快取」後再試一次。" }
+  ],
+  "music": [
+    { "title": "Fading Into Static", "artist": "鶇瞑", "duration": "2:06", "file": "music/fading-into-static.mp3" },
+    { "title": "乾澀", "artist": "鶇瞑", "duration": "3:37", "file": "music/ganse.mp3" },
+    { "title": "如墨", "artist": "鶇瞑", "duration": "4:04", "file": "music/rumo.mp3" },
+    { "title": "憶", "artist": "鶇瞑", "duration": "4:47", "file": "music/yi.mp3" },
+    { "title": "紙傘", "artist": "鶇瞑", "duration": "3:33", "file": "music/zhisan.mp3" }
   ]
 }
