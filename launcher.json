@@ -1,7 +1,7 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "force": true,
-  "notes": "・新增背景音樂播放器，可自由選歌\n・可調整音量、靜音與播放模式",
+  "notes": "・伺服器未開放或維護中時，將無法進入城市（避免卡在連線畫面）",
   "download": "https://github.com/IceCream0724/fleeting-city-launcher/releases/latest/download/FleetingCity-Launcher.exe",
   "discordUrl": "https://discord.gg/RQQQjnJTUj",
   "announcements": [
