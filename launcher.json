@@ -1,7 +1,8 @@
 {
-  "version": "1.3.1",
+  "version": "1.3.2",
   "force": true,
-  "notes": "・伺服器未開放或維護中時，將無法進入城市（避免卡在連線畫面）",
+  "requireReady": true,
+  "notes": "・伺服器維修中或重啟中時無法進入城市\n・伺服器完全啟動後才會開放進城",
   "download": "https://github.com/IceCream0724/fleeting-city-launcher/releases/latest/download/FleetingCity-Launcher.exe",
   "discordUrl": "https://discord.gg/RQQQjnJTUj",
   "announcements": [
